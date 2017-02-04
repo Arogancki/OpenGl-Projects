@@ -1,0 +1,17 @@
+﻿Build started 2016-02-08 11:37:49.
+     1>Project "C:\Users\Artur\Documents\Visual Studio 2015\Projects\Gluty\pro\gwiaz\GRA DOCELOWA\Zadanie 2\GKiW_Lab2\GKiW_Lab2.vcxproj" on node 2 (Build target(s)).
+     1>Link:
+         GKiW_Lab2.vcxproj -> C:\Users\Artur\Documents\Visual Studio 2015\Projects\Gluty\pro\gwiaz\GRA DOCELOWA\Zadanie 2\Release\GKiW_Lab2.exe
+       PostBuildEvent:
+         "C:\Users\Artur\Documents\Visual Studio 2015\Projects\Gluty\pro\gwiaz\GRA DOCELOWA\Zadanie 2\Release\";
+         copy "C:\Users\Artur\Documents\Visual Studio 2015\Projects\Gluty\pro\gwiaz\GRA DOCELOWA\Zadanie 2\freeglut\bin\*.dll" "C:\Users\Artur\Documents\Visual Studio 2015\Projects\Gluty\pro\gwiaz\GRA DOCELOWA\Zadanie 2\Release\";
+         :VCEnd
+         Nazwa '"C:\Users\Artur\Documents\Visual Studio 2015\Projects\Gluty\pro\gwiaz\GRA DOCELOWA\Zadanie 2\Release\"' nie jest rozpoznawana jako polecenie wewnętrzne lub zewnętrzne,
+         program wykonywalny lub plik wsadowy.
+         C:\Users\Artur\Documents\Visual Studio 2015\Projects\Gluty\pro\gwiaz\GRA DOCELOWA\Zadanie 2\freeglut\bin\freeglut.dll
+         Liczba skopiowanych plików:         1.
+     1>Done Building Project "C:\Users\Artur\Documents\Visual Studio 2015\Projects\Gluty\pro\gwiaz\GRA DOCELOWA\Zadanie 2\GKiW_Lab2\GKiW_Lab2.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:00.08
